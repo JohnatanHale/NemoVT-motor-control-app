@@ -1,1 +1,1 @@
-# ![logo] (https://github.com/JohnatanHale/NemoVT-motor-control-app/blob/master/icon/icon.png) App controllo remoto del Robot NemoVT
+# ![logo](https://github.com/JohnatanHale/NemoVT-motor-control-app/blob/master/icon/icon.png) App controllo remoto del Robot NemoVT
